@@ -1,0 +1,4 @@
+#Thu Dec 27 20:03:42 CET 2018
+base.0=/home/adel/delivery/DEV_epicture_2018/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
